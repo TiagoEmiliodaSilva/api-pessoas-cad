@@ -15,7 +15,7 @@ Requisitos
 1. Clonar o repositório
   
   ```bash
-git clone https://github.com/vitormarcato/desafio-api-pessoas.git
+git clone https://github.com/TiagoEmiliodaSilva/api-pessoas-cad.git
 ```
 ou fazer download do .zip file
   		  
